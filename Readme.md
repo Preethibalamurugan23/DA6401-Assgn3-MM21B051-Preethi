@@ -1,6 +1,7 @@
 # DA6401 - MM21B051 - Preethi
 ## Sequence-to-Sequence Model for Character-Level Translation
 
+### Wandb report: [https://wandb.ai/mm21b051-iitmaana/dakshina-transliteration/reports/Copy-of-sivasankar1234-s-Assignment-3--VmlldzoxMjg2NTk5MA?accessToken=awux0c2v6aiprdcbe9qrbsi4do8rqghxl4ua9s4q16zi6ln5je01bdr1gh0l1l25]
 
 This project implements a sequence-to-sequence (seq2seq) model for character-level translation. The model is designed to translate romanized text into a native language (Hindi in this case), using character-level tokenization.  It includes both a basic seq2seq model and an attention-based variant.  The data used is the Hindi language data from the Dakshina-transliteration dataset.
 
